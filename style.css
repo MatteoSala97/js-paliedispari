@@ -1,0 +1,11 @@
+.container{
+    border: 1px solid red;
+    height: 200px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.box{
+    padding: 10px;
+}
